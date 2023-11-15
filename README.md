@@ -1,5 +1,5 @@
 ### Comparing Different Portfolio Strategies
 #### | Course Project: Financial Data Analysis (2021.Junior)
 #### | 📈 Intro.
-This project analyzed the individual performance of 8 stocks selected from Taiwan stock market and evaluated 7 different portfolio strategies constructed by these 8 stocks by implementing rolling window regression model.
+This project analyze the individual performance of 8 stocks selected from Taiwan stock market and evaluate 7 different portfolio strategies constructed by these 8 stocks by implementing rolling window regression model.
 #### | 🛠️ Techniques: R
